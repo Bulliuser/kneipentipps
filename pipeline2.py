@@ -67,15 +67,3 @@ df_resampled.plot.line()
 
 df_resampled.to_csv('oelpreis.csv')
 
-
-# In[12]:
-
-
-pip install jupyterthemes
-
-
-# In[ ]:
-
-
-
-
