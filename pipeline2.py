@@ -56,12 +56,6 @@ df_resampled=df.resample('M').mean() # wir berechnen den monatlichen Durchschnit
 df_resampled #Wir lassen uns den neuen Dataframe anzeigen
 
 
-# In[10]:
-
-
-df_resampled.plot.line()
-
-
 # In[11]:
 
 
